@@ -1,0 +1,7 @@
+Pandas
+Seaborn 
+Matplotlib
+Numpy
+Machine learning
+Sklearn
+classifiers
